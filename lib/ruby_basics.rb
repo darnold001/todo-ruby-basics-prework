@@ -28,3 +28,8 @@ def pizza_party(type = "cheese")
 puts "#{type}"
 "#{type}"
 end
+
+def return_a_value (value)
+  output = value
+  puts "#{output}"
+end
