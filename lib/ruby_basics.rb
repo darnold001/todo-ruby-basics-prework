@@ -29,7 +29,6 @@ puts "#{type}"
 "#{type}"
 end
 
-def return_a_value (value)
-  output = value
-  puts "#{output}"
+def return_a_value (output = value)
+  "#{output}""
 end
