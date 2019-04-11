@@ -35,4 +35,5 @@ end
 
 def last_evaluated_value(ability = "expert")
   puts "#{ability}"
+  "#{ability}"
 end
