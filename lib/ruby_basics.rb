@@ -29,6 +29,6 @@ puts "#{type}"
 "#{type}"
 end
 
-def return_a_value (output = value)
+def return_a_value (output = "Nice")
   "#{output}"
 end
